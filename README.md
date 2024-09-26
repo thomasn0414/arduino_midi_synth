@@ -14,9 +14,10 @@ The system sends MIDI chords based on the distance detected by the sensor and di
 ### Hardware:
 - Arduino Uno (or compatible board)
 - Ultrasonic sensor (HC-SR04)
-- LCD Display (16x2) with potentiometer for contrast control
+- LCD Display (16x2) 
 - Breadboard and jumper wires
-- 10kΩ potentiometer (for LCD contrast)
+- 220 Ohm resistor
+- 10kΩ potentiometer (for LCD contrast) (Optional: can wire directly to 5V out instead)
 - USB cable (for Arduino)
 
 ### Software:
