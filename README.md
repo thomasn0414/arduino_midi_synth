@@ -94,6 +94,7 @@ You can find the full Arduino code in the `arduino_midi_synth.ino` file [here](a
 - If you're not hearing sound in Reaper:
   - Ensure **loopMIDI** and **Hairless MIDI** are running and configured correctly.
   - Make sure the correct **COM port** is selected in Hairless MIDI.
+  - Ensure that in the Arduino IDE, the Serial Monitor is off as Hairless MIDI requires it to be disabled for it to work properly. 
   - Check that the **MIDI input** is enabled in Reaper and the correct virtual instrument is added.
 
 
