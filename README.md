@@ -29,7 +29,6 @@ The system sends MIDI chords based on the distance detected by the sensor and di
 You can view the Tinkercad model for the wiring setup below
 ![Arduino Setup](https://github.com/user-attachments/assets/e3406aed-52cb-44b2-b432-21ccadbea267)
 
-)
 
 ### Wiring Diagram
 - **Ultrasonic Sensor (HC-SR04):**
