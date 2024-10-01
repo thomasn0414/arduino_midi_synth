@@ -101,7 +101,7 @@ void loop() {
     }
   }
 
-  delay(100); Delay for smoother output
+  delay(100); 
 }
 
 // Function to play a major chord
